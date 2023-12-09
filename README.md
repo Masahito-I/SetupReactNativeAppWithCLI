@@ -3,7 +3,7 @@
 This app has already set up.
 * Removed an ios part.
 * Removed unnecessary comments.
-* Set up a directory structure
+* Set up a directory structure and react-navigation
 
 ## Directory structure
 src/
