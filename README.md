@@ -1,4 +1,4 @@
-# SetupReactNativeAppWithCLI
+# setup-react-native-app-with-cli
 
 This app has already set up.
 * Removed an ios part.
