@@ -7,11 +7,11 @@ This app has already set up.
 
 ## Directory structure
 .
-|---  src/
-|---  assets/
-|---  components/
-|---  config/
-|---  screens/
+  |---  src/
+  |---  assets/
+  |---  components/
+  |---  config/
+  |---  screens/
 
 ## Start the Metro Server & run the app
 
