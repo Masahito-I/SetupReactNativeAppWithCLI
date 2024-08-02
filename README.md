@@ -6,9 +6,10 @@ This app has already set up.
 * Set up a directory structure and react-navigation
 
 ## Directory structure
-src/
- assets/
- components/
+.
+|--- src
+|---  assets/
+|---  components/
  config/
  screens/
 
